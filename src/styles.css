@@ -1,1 +1,7 @@
 /* You can add global styles to this file, and also import other style files */
+.pb-5, .py-5 {
+    padding-bottom: 2rem!important;
+}
+.pt-5, .py-5 {
+    padding-top: 2rem!important;
+}
